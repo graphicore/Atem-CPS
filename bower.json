@@ -1,0 +1,32 @@
+{
+  "name": "Atem-CPS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/graphicore/Atem-CPS",
+  "authors": [
+    "Lasse Fister <commander@graphicore.de>"
+  ],
+  "description": "Atem Project: CPS—Cascading Properties Sheets and OMA—Object Model API",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Atem",
+    "CPS",
+    "OMA"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bloomfilter.js": "graphicore/bloomfilter.js#more-exposed-api",
+    "Atem-Errors": "graphicore/Atem-Errors",
+    "Atem-CPS-whitelisting": "graphicore/Atem-CPS-whitelisting",
+    "obtainjs": "graphicore/obtainJS",
+    "Atem-IO": "graphicore/Atem-IO"
+  }
+}
