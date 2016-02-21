@@ -27,6 +27,7 @@
     "Atem-Errors": "graphicore/Atem-Errors",
     "Atem-CPS-whitelisting": "graphicore/Atem-CPS-whitelisting",
     "obtainjs": "graphicore/obtainJS",
-    "Atem-IO": "graphicore/Atem-IO"
+    "Atem-IO": "graphicore/Atem-IO",
+    "gonzales": "graphicore/gonzales"
   }
 }
